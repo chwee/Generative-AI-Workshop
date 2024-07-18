@@ -6,16 +6,23 @@ This workshop offers an insightful exploration into the application of artificia
 
 
 Topic presentation
+
 Overview of AI
+
 What is Generative AI vs AI?
+
 Type of Generative AI based on data
+
 Tasks can be performed by generative AI
+
 What is prompt Engineering
 
 
 
 Workshop will be as follow:
+
 Workshop 1:  Customise prompt to complete work task- Sentiment analysis, information extraction
+
 Workshop 2:  Exploring the multimodal Gemini to chat with image to extract information
 
 Demo: LLM agent chat with your data
